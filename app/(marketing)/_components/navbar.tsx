@@ -33,14 +33,14 @@ const Navbar = () => {
               </Button>
             </SignInButton>
             <SignInButton mode="modal">
-              <Button size="sm">Получить Arfeelings Бесплатно</Button>
+              <Button size="sm">Начать</Button>
             </SignInButton>
           </>
         )}
         {isAuthenticated && !isLoading && (
           <>
             <Button variant="ghost" size="sm" asChild>
-              <Link href="/documents">Войти в Arfeelings</Link>
+              <Link href="/documents">Создать</Link>
             </Button>
             <UserButton afterSignOutUrl="/" />
           </>

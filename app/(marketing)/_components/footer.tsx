@@ -7,10 +7,10 @@ const Footer = () => {
       <Logo />
       <div className="md:ml-auto w-full justify-between md:justify-end flex items-center gap-x-2 text-muted-foreground">
         <Button variant="ghost" size="sm">
-          Политика Конфедициальности
+          Политика
         </Button>
         <Button variant="ghost" size="sm">
-          Условия & Использования
+          Пользование
         </Button>
       </div>
     </div>
