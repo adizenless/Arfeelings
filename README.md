@@ -31,7 +31,7 @@ Technologies and libraries used to develop this application.
 
 ## License
 
-Portfolio is [MIT licensed](https://github.com/adizenless/Nogside/blob/main/LICENSE).
+Portfolio is [MIT licensed](https://github.com/adizenless/Arfeelings/blob/main/LICENSE).
 
 ## Contact
 
